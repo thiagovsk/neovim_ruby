@@ -21,6 +21,7 @@ Plug 'ternjs/tern_for_vim', { 'do': 'sudo npm install && sudo npm install -g ter
 
 " Snippets for our use :)
 Plug 'SirVer/ultisnips'
+Plug 'ap/vim-buftabline'
 
 " Dracula theme
 Plug 'dracula/vim', { 'as': 'dracula' }
