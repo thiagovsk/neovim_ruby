@@ -172,6 +172,10 @@ nmap <Leader><CR> :nohlsearch<cr>
 " Save file with leader w
 map <leader>w :w!<CR>
 map <leader>W :wall!<CR>
+map <leader>n :bn<CR>
+map <leader>p :bp<CR>
+map <leader>b :Buffers<CR>
+map <leader>F :Ag 
 
 " Close a buffer
 map <leader>d :bd<CR>
