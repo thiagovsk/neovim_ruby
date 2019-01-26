@@ -20,8 +20,9 @@ sudo apt install silversearch-ag
 On Fedora \ arch, install the the_silver_searcher package.
 
 3 - Install fzf:
-git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
-~/.fzf/install
+
+$ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzfk
+$ ~/.fzf/install
 
 4 - Install Neovim version > 3.
 On ubuntu 18.10+, apt install neovim
@@ -34,4 +35,4 @@ https://github.com/neovim/neovim/wiki/Installing-Neovim
 
 6 - Ready to use =D
 
-Before use, stud the init.vim, read the Plugins documentation, have fun =D.
+Before use, study the init.vim, read the Plugins documentation, have fun =D.
