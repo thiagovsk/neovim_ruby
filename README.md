@@ -19,7 +19,8 @@ sudo apt install silversearch-ag
 
 On Fedora \ arch, install the the_silver_searcher package.
 
-3 - Install fzf
+3 - Install fzf:
+
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 
 4 - Install Neovim version > 3.
