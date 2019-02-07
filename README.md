@@ -15,12 +15,13 @@ Requires:
 
 
 Steps to install:
+
 1 - Put the files of this repository on your home folder, following the path structure of this repository.
 
 2- install silversearcher:
 
 On Ubuntu:
-sudo apt install silversearch-ag exuberant-ctags nodejs npm
+sudo apt install silversearcher-ag exuberant-ctags nodejs npm
 
 On Fedora \ arch, install the the_silver_searcher exuberant-ctags nodejs npm.
 
