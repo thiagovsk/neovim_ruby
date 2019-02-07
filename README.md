@@ -15,7 +15,7 @@ Requires:
 
 
 Steps to install:
-1 - Put the files of this repository on your home folder, following the path structure.
+1 - Put the files of this repository on your home folder, following the path structure of this repository.
 
 2- install silversearcher:
 
