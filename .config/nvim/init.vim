@@ -13,6 +13,7 @@ endfunction
 Plug 'Shougo/deoplete.nvim', { 'do': function('DoRemote') }
 Plug 'neomake/neomake', { 'on': 'Neomake' }
 Plug 'ludovicchabant/vim-gutentags'
+Plug 'tpope/vim-rails'
 
 "Javascript Plugins
 Plug 'pangloss/vim-javascript'
